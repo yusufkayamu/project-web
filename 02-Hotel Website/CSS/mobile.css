@@ -1,0 +1,45 @@
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom:
+  #444 dotted 1px;
+}
+
+#showcase .showcase-content h1 {
+  font-size: 20px;
+  line-height: 1.2em;
+
+}
+
+#showcase .showcase-content p {
+  font-size: 15px;
+  line-height: 1.7em;
+}
+
+/* Home Info */
+
+#home-info .info-content {
+  font-size: 10px;
+  float: none;
+  width: 100%;
+}
+
+#home-info .info-img {
+  display: none;
+  float: none;
+}
+
+/* Boxes */
+
+.box {
+  float: none;
+  width: 100%;
+}
